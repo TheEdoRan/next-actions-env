@@ -1,0 +1,1 @@
+Test code for [this issue](https://github.com/TheEdoRan/next-safe-action/issues/3).
